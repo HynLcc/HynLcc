@@ -4,4 +4,4 @@ I'm passionate about solutions that are both effective and intuitive. While I'm 
 
 🎯 Bring the tea on the table! 
 
-➡️ [Teable](https://teable.ai/)
+➡️ [Teable.ai](https://teable.ai/)
