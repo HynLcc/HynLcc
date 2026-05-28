@@ -4,8 +4,6 @@
 
 <p align="center">Product &nbsp;·&nbsp; Community &nbsp;·&nbsp; Support &nbsp;&nbsp;@&nbsp;&nbsp;<a href="https://teable.ai/">Teable</a></p>
 
-<p align="center"><sub>Helping people get the most out of Teable.</sub></p>
-
 <br><br>
 
 <p align="center"><em>Bring the tea on the table.</em> &nbsp;🍵</p>
