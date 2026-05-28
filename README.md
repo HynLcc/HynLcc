@@ -1,15 +1,7 @@
-<br><br><br>
+### Leo
 
-<h1 align="center">Leo</h1>
+Product · Community · Support @ [Teable](https://teable.ai/)
 
-<p align="center">Product &nbsp;·&nbsp; Community &nbsp;·&nbsp; Support &nbsp;&nbsp;@&nbsp;&nbsp;<a href="https://teable.ai/">Teable</a></p>
+*Bring the tea on the table.* 🍵
 
-<br><br>
-
-<p align="center"><em>Bring the tea on the table.</em> &nbsp;🍵</p>
-
-<br>
-
-<p align="center"><sub>leo@teable.ai</sub></p>
-
-<br><br><br>
+leo@teable.ai
