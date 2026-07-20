@@ -2,6 +2,6 @@
 
 Product · Community · Support @ [Teable](https://teable.ai/)
 
-Bring the tea on the table. 🍵
+Coffee or tea 🍵
 
 leo@teable.ai
