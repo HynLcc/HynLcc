@@ -1,3 +1,3 @@
 ### Leo
 
-Coffee or tea 🍵 @ [Teable](https://teable.ai/)
+coffee or tea 🍵 @ [Teable](https://teable.ai/)
