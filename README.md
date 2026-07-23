@@ -1,5 +1,5 @@
 ### Leo
 
-Coffee or tea🍵
+Coffee or tea 🍵
 
-Build your business with [Teable](https://teable.ai/)
+Build your business with [Teable.ai](https://teable.ai/)
